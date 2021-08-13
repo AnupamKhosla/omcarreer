@@ -1,0 +1,518 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"list-st",
+				"list-style-type\tproperty"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"te",
+				"text-transform\tproperty"
+			],
+			[
+				"tra",
+				"translateY()\ttransform"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"filter",
+				"filter_list"
+			],
+			[
+				"disp",
+				"dsiplay_overriden"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"dis",
+				"display_prop"
+			],
+			[
+				"do",
+				"doSomething"
+			],
+			[
+				"erro",
+				"error_reporting"
+			],
+			[
+				"ob",
+				"obj2"
+			],
+			[
+				"obj",
+				"obj1"
+			],
+			[
+				"temp",
+				"tempEarth"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"ar",
+				"arr"
+			],
+			[
+				"unse",
+				"unset"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 8229,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/main.css",
+			"settings":
+			{
+				"buffer_size": 6836,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/grid.css",
+			"settings":
+			{
+				"buffer_size": 20264,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rie",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"set syntax: php",
+				"Set Syntax: PHP"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"REI",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/HDD/OmCareers",
+		"/E/HDD/OmCareers/css",
+		"/E/HDD/OmCareers/img"
+	],
+	"file_history":
+	[
+		"/E/HDD/OmCareers/css/fontawesome-free-5.15.4-web/fontawesome-free-5.15.4-web/css/svg-with-js.css",
+		"/E/HDD/OmCareers/css/fontawesome-free-5.15.4-web/fontawesome-free-5.15.4-web/css/fontawesome.css",
+		"/E/HDD/OmCareers/css/fontawesome-free-5.15.4-web/fontawesome-free-5.15.4-web/css/regular.css",
+		"/E/HDD/OmCareers/css/grid.css",
+		"/E/HDD/OmCareers/index.html",
+		"/E/HDD/OmCareers/css/bootstrap.css",
+		"/E/HDD/OmCareers/humans.txt",
+		"/E/HDD/OmCareers/js/main.js",
+		"/E/HDD/OmCareers/js/plugins.js",
+		"/E/HDD/OmCareers/doc/html.md",
+		"/E/HDD/OmCareers/css/normalize.css",
+		"/E/HDD/OmCareers/css/bootstrap-theme.css",
+		"/E/HDD/Anupam/Projects/Sandbox/index2.html",
+		"/E/HDD/Anupam/Projects/Arsha/Arsha/index.html",
+		"/C/Users/Admin/Desktop/font/Roboto-BlackItalic.ttf",
+		"/E/HDD/Anupam/Projects/Sandbox/index.html",
+		"/C/Games/sk/tekken 3/Tekken 3/Read Me First.txt",
+		"/C/Games/Tekken/README_Instructions.txt",
+		"/C/Games/sk/First Read this.txt",
+		"/C/Games/Graphisoft Archicad 20 build 3012 (x64) Portable-=TEAM OS=-/ArchiCAD 20 Portable/read me first !!!.txt",
+		"/C/visit-www.nosteam.ro.html",
+		"/C/Games/sk/instld/ipcgames.com_Prototype_1/Read_Me_Important.txt",
+		"/C/Games/Tekken/Tekken-3-Free-Download-PC-Game/ismnvcji-OpenPasswordFile.txt",
+		"/C/Games/Tekken/password.txt",
+		"/C/Games/Tekken/instructions.txt",
+		"/D/Movies/SEO TRAINING Best SEO Techniques to Drive Traffic in 2021/[TutsNode.com] - SEO TRAINING Best SEO Techniques to Drive Traffic in 2021/3. THE NUMBER #1 SECRET TO SUCCEED IN SEO/1.7 Google’s 200 Ranking Factors.html",
+		"/E/Read_Me_Important.txt",
+		"/D/Movies/[FreeAllCourse.Com] Udemy - Learn Photoshop, Web Design & Profitable Freelancing/Read Me.txt",
+		"/C/Call of Duty Modern Warfare 2/players/config.cfg",
+		"/C/Games/sk/Call of Duty 4 - Modern Warfare Repack By R.G Catalyst - MonstersBugle/Torrent downloaded from MonstersBugle.xyz.txt",
+		"/C/Users/Admin/Desktop/Torrent_To_Phone.txt",
+		"/C/Games/Call of Duty 4 Modern Warfare/READ IF SETUP DELETED + HOW TO INSTALL.txt",
+		"/C/Anupam/Softwares/XAMP/htdocs/complete-blog-php/index.php",
+		"/C/Anupam/Softwares/XAMP/htdocs/complete-blog-php/config.php",
+		"/C/Users/Admin/Desktop/downloads/The Man Who Knew Infinity (2015) [YTS.AG]/russell.txt",
+		"/C/Users/Admin/Desktop/fb_accs.txt",
+		"/C/Users/Admin/Desktop/Court case/Gratification.txt",
+		"/C/Users/Admin/Desktop/Court case/ReasonForOffense.txt",
+		"/C/Users/Admin/Desktop/Songs.txt",
+		"/C/Anupam/Softwares/XAMP/htdocs/complete-blog-php/includes/public_functions.php",
+		"/C/Users/Admin/AppData/Local/Temp/fz3temp-2/config.php",
+		"/C/Users/Admin/AppData/Local/Temp/fz3temp-2/registration_login.php",
+		"/C/Users/Admin/AppData/Local/Temp/fz3temp-2/index 2.php",
+		"/C/Users/Admin/AppData/Local/Temp/fz3temp-2/public_functions.php",
+		"/C/Anupam/Projects/php_Blog/Complete-blog-php/index.php",
+		"/C/Anupam/Softwares/XAMP/htdocs/complete-blog-php/includes/registration_login_by_user.php",
+		"/C/Anupam/Softwares/XAMP/htdocs/complete-blog-php/complete-blog-php.sql",
+		"/C/Users/Admin/AppData/Local/Temp/fz3temp-2/index.php",
+		"/C/Anupam/Projects/php_Blog/Complete-blog-php/README.md",
+		"/C/Anupam/Softwares/XAMP/htdocs/index.php",
+		"/C/Anupam/Softwares/XAMP/htdocs/Blog/complete-blog-php.sql",
+		"/C/Anupam/Softwares/XAMP/htdocs/Blog/config.php",
+		"/C/Anupam/Projects/php_Blog/Complete-blog-php/config.php",
+		"/C/Anupam/Projects/php_Blog/Complete-blog-php/complete-blog-php.sql",
+		"/C/Anupam/Projects/Sandbox/myphp.php",
+		"/C/Users/Admin/Desktop/New_Accs.txt",
+		"/C/Users/Admin/Desktop/FB.txt",
+		"/C/Users/Admin/Desktop/shit.txt",
+		"/C/Users/Admin/Desktop/downloads/IDM/How to Install.txt",
+		"/C/Anupam/Projects/Sandbox/index.php",
+		"/C/Anupam/[FreeAllCourse.Com] Udemy - Learn Photoshop, Web Design & Profitable Freelancing/1. Welcome!/3. Workbook for Section 1 & Download All The Course Resources.html",
+		"/C/Users/Admin/Desktop/downloads/The New Mutants 2020 BDRip X265-mSD/Readme.txt",
+		"/C/Users/Admin/Desktop/sandeep/New Sandeep Singh_Job research.docx",
+		"/C/Users/Admin/Desktop/sandeep/Job_Search_Anupam.rtf",
+		"/C/Anupam/Projects/Sandbox/upload.php",
+		"/C/Anupam/Projects/Sandbox/upload",
+		"/C/Anupam/SERVER/Projects/Resume/node_modules/startbootstrap-resume/scss/_variables.scss",
+		"/C/Anupam/SERVER/Projects/Resume/node_modules/startbootstrap-resume/index.html",
+		"/C/Anupam/SERVER/Projects/Resume/node_modules/startbootstrap-resume/scss/_nav.scss",
+		"/C/Anupam/SERVER/Projects/Resume/node_modules/startbootstrap-resume/scss/_global.scss",
+		"/C/Anupam/SERVER/Projects/Resume/node_modules/startbootstrap-resume/scss/_resume-item.scss",
+		"/C/Anupam/SERVER/Projects/Resume/node_modules/startbootstrap-resume/logo.png",
+		"/C/Anupam/SERVER/Projects/Resume/index.html",
+		"/C/Anupam/SERVER/Projects/Resume/README.md",
+		"/C/Anupam/SERVER/Projects/Resume/vendor/jquery/jquery.js",
+		"/C/Anupam/SERVER/Projects/Resume/vendor/bootstrap/css/bootstrap.css",
+		"/C/Anupam/SERVER/Projects/.htaccess",
+		"/C/Anupam/Projects/startbootstrap-resume-gh-pages/startbootstrap-resume-gh-pages/js/resume.js",
+		"/C/Anupam/Projects/startbootstrap-resume-gh-pages/startbootstrap-resume-gh-pages/index.html",
+		"/C/Anupam/SERVER/Projects/.htaccess.txt",
+		"/C/Anupam/Projects/startbootstrap-resume-gh-pages/startbootstrap-resume-gh-pages/css/resume.css",
+		"/C/Anupam/Projects/Sandbox/ArrayObject.php",
+		"/C/Anupam/Projects/Sandbox/ArrayObject2.php",
+		"/C/Anupam/Projects/Sandbox/server.bat",
+		"/C/Anupam/Projects/Sandbox/SO",
+		"/C/Anupam/Projects/Sandbox/myphp",
+		"/C/Anupam/Projects/Syco/sycoscientistrecords.github.io/index.html",
+		"/C/Anupam/Projects/Sandbox/Concepts.txt",
+		"/C/Anupam/Projects/Sandbox/index.html",
+		"/C/Anupam/Projects/Sandbox/hello.html"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"color",
+			"clearfix",
+			"font-f",
+			"font",
+			"container-fl",
+			"rem",
+			"html",
+			"russell",
+			"logi",
+			"nav",
+			"img"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8229,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7485,
+								7485
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1998.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6836,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6004,
+								6004
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6128.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/grid.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20264,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4905,
+								4905
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6380.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 234.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
