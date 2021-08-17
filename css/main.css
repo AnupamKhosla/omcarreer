@@ -131,22 +131,22 @@
 /*Author: Anupam khosla; main style stars here.*/
 
 /*Global rule*/
-@font-face {
-  font-family: "Open Sans";
-  src: url("Open_Sans/OpenSans-Regular.ttf") format("truetype");
-  font-weight: normal;
-  font-style: normal;
-}
+
+
 
 
 
 @font-face {
   font-family: "Open Sans";
   src: url("Open_Sans/OpenSans-Light.ttf") format("truetype");
-  font-weight: lighter;
-  font-style: lighter;
+  font-weight: lighter;  
 }
 
+@font-face {
+  font-family: "Open Sans";
+  src: url("Open_Sans/OpenSans-Regular.ttf") format("truetype");
+  font-weight: normal;  
+}
 
 
 html, body {
@@ -673,6 +673,7 @@ header nav a:active {
   #hero h1 {
     font-size: 1.5rem;
     margin-top: 50px;
+    font-weight: normal;
   }
   #hero .question, #hero .enquiry {
     display: block;
