@@ -165,11 +165,28 @@ body {
   font-size: 0.875rem;
 }
 
-a:link,
-a:visited {
+a {  
+  text-decoration: none;  
+  color: #fff;
+}
+
+button:focus,
+a:focus {
+  outline: 1px solid #fff;
+}
+
+button:active,
+a:active {
+  outline: none;
+}
+
+a:focus,
+a:hover {
   color: #fff;
   text-decoration: none;
 }
+
+
 
 .media-body, .media-left, .media-right {
   display: table-cell;
@@ -205,6 +222,13 @@ img {
   max-width: 100%;
   height: auto;
 }
+input:-webkit-autofill,
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus, 
+input:-webkit-autofill:active {
+  background-color: transparent;
+}
+
 
 /*Global rules finish*/
 
@@ -409,6 +433,12 @@ header nav a:active {
   margin-left: 20px;
 }
 
+#hero .enquiry:hover,
+#hero .enquiry:focus {
+  color: #fff;
+  text-decoration: none;
+}
+
 .content {
   padding: 70px 15px;
   font-size: 0.875rem;
@@ -605,6 +635,11 @@ header nav a:active {
   border: none;
 }
 
+.call-back .submit:hover {
+  background-color: #16b15b;
+}
+
+
 .call-back h2 {
   margin:  0px;
 }
@@ -773,22 +808,156 @@ footer {
 }
 
 footer .container {
-  padding: 50px 15px;
+  padding: 70px 15px;
+}
+
+footer h2 {
+  margin: 0 0 15px 0;
 }
 
 footer .divider{
   width: 0px;
-  height: 100%;
-  outline: 2px solid #fff;
+  outline: 1px solid #fff;
   display: table-cell;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: -12px;
 }
 
-footer .modified-clearfix {
-  display: table;
+footer .services2 ul {
+  padding: 0;
+  list-style-type: none;
 }
 
-footer .modified-clearfix:before {
-  display: none;
+footer .services2 li {
+  margin-bottom: 15px;
+}
+
+footer [class|="col"] { 
+  padding: 0 30px;
+}
+
+footer p {
+  margin: 40px 0 -5px;
+}
+
+footer .maps a:focus,
+footer .maps a:hover {
+  color: #0cda67;
+  text-decoration: underline;
+}
+
+footer .maps i {
+  font-size: 2.25rem;
+  margin-right: 10px;
+  vertical-align: bottom;
+  color: #0cda67;
+  position: relative;
+  bottom: -2px;
+}
+
+footer .subscription {
+  padding: 0 50px 0 0;
+}
+
+footer .subscription p {
+  margin: 15px 0;
+}
+
+footer form [type="email"] {
+  background-color: #233d56;
+  float: left;
+  height: 40px;
+  padding: 6px 12px;
+  font-size: 0.875rem;
+  color: #fff;    
+  border-radius: 0px;
+  border: 2px solid #1f354a;
+  width:  calc(100% - 50px);
+}
+
+footer form {
+  margin-bottom: 30px;
+}
+
+footer form input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #fff;
+  opacity: 0.4; /* Firefox */
+}
+
+footer form input:focus {
+  outline: none;
+  border: 2px solid #192b3c;
+}
+
+footer form input:focus + button {
+  background-color: #192b3c;
+  border-color: #192b3c;
+}
+
+
+footer form button {
+  float: left;  
+  border: none;
+  background-color: #1f354a;
+  border: 2px solid #1f354a;
+  border-left: none;
+}
+
+footer form i {
+  font-size: 1rem;
+  padding: 9px;
+  color: #fff; 
+}
+
+footer .social-icons {
+  font-size: 2.25rem;  
+}
+
+footer .social-icons i {
+  display: block;
+  position: relative;
+}
+
+footer .social-icons > a {
+  color: #18ba60;
+  position: relative;
+  display: block;
+  float: left;
+  margin: 0 20px 0 0;
+}
+
+footer .social-icons > a:focus {
+  text-decoration: none;
+  color: #189650;
+  outline-offset: 2px;
+}
+
+footer .social-icons > a:hover {
+  color: #189650;
+  text-decoration: none;
+}
+
+footer .social-icons .bg {
+  background-color: #fff;
+  position: absolute;
+  width: 26px;
+  height: 27px;  
+  top: 6px;
+  left: 2px;
+}
+
+footer .copyright {
+  padding: 15px 0;  
+}
+
+footer .copyright a {
+  color: #0bea6e;
+}
+
+footer .copyright a:hover {
+  text-decoration: underline;
 }
 
 @media (max-width:  1600px) {
@@ -952,12 +1121,20 @@ footer .modified-clearfix:before {
       height:  222px;
     }
 
+    .help .media:not(.phones) {
+      margin-left: 0;
+    }
+
     .skewed .left, 
     .skewed .right {
       width: calc(50% - 375px);
     } 
     .sub-footer .box {
       border-width: 7px;
+    }
+
+    footer .social-icons > a {
+      margin: 0 8px 0 0;
     }
   }
 
@@ -1201,5 +1378,29 @@ footer .modified-clearfix:before {
       background-color: #35597d;
     }    
 
+    footer .container {
+      max-width: 500px;
+      padding: 30px 15px 0px;
+    }
+
+    footer [class|="col"] {
+      padding: 0 15px;
+    }
+
+    footer .divider {
+      display: none;
+    }
+
+    footer p {
+      margin: 20px 0 -5px;
+    }
+
+    footer h2 {
+      margin: 30px 0 0 0;
+    }
+
+    footer .services2 li {
+      margin-bottom: 10px;
+    }
 
   }
